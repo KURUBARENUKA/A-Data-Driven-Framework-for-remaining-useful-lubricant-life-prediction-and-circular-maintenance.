@@ -1,0 +1,2 @@
+# A-Data-Driven-Framework-for-remaining-useful-lubricant-life-prediction-and-circular-maintenance.
+It is Designed to predict Remaining Useful Lubricant Life (RULL) and support circular maintenance strategies using structured historical industrial data. Conventional maintenance, which relies on fixed time-based oil replacement or reactive repairs, often leads to unnecessary operational costs, premature waste , or unexpected equipment failures.
